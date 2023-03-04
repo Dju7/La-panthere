@@ -805,11 +805,14 @@ h4 {
 .main-btn {
     font-size: 25px;
     font-weight: 500;
-    
 }
 
 .btn-atomic-tangerine {
     background: #b54f20;
+    color: #FFFFFF!important;
+}
+.btn-atomic-tangerine2 {
+    background: #ffffff;
     color: #FFFFFF!important;
 }
 
