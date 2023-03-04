@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -796,6 +796,11 @@ h4 {
     font-weight: 900;
     text-shadow: 0 1px 5px #c85019;
     position: relative;
+}
+.tc-white-alt2 {
+    color: #ffffff!important;
+    font-weight: 900;
+    font-size: 20px;
 }
 .main-btn {
     font-size: 25px;
